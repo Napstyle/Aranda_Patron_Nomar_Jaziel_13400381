@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\b4d09f58cd266680270f48d39026aa90bc25caf5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_9b91942ed9ff3ce12914ebb22f379d16c0942acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\03064013a4ef6a62aaae9de841da897ca2cf5269\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_c7a98aae5bab601531582f5ffcafe84a51587c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\c309e3e316f8a6887d66a9240eadac7a35c4f012\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_41d5004962504672b115dfa096d9806874c1289e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_2e6406d953e4f8ac59ac170d7e20edee37c3332e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\8b9e81b8bc6e813f2d6882a7f45bf10828b47187\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_a1b72dc44b13c59bce08c92971ee588af0f90861.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_474d00af6cab17fb98e9b3cf462318217c25da9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\5b71b116f6ec22fbfa7423a5ba6477700d19bbba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_1d73b1d4e15f6d719a09ebec9d80ff4810c742b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ef2d9d6786671d164670d4f468700caa25bbf30">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78e41b0d6851cca7b38dba4e83d3edf7bc6f8019\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\6ef3251eecc5f66d6c9ae89bd91846c6d36eb13a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_829b2662ef87014d1e582e178683c3fb127a3c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\bd8e09cb0329b7d490e74a4c5f57649eb7b79877\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_52d5c6ec12534f1e36017dcea3c46dfe169587b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\3c9dc36e5c6cf8480cf66763adcf550229a40c4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_84e4eec574e08a936e8a8a0bf10b63e2dec78f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\947d4c4b53c50e13a874d0ee158ec77c0016e760\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_25ce031f9fc86fd1a961ee5bc717b0ec0f211d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b40900813e917519c7efb4f8e200c0e103fd7327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\dff5f246b64fb08f0a0e0d8b71d17baf9a22c1f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_a5c3a4f9f78ecdbf13d9bdaa728f3ef05ec21aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\c68e6ed6dd7c4367ac7dd9e6e40ddd439ab0d7d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_9a39777814cb929af3ee673f2984e5ba439b2deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\ed0696754516c179eb7d0c027942ca588f640381\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_3a65dbcfdc0caa4c1380490503af3ffab051e749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Napstyle\.android\build-cache\0e8229d9bdb5b0244fd652dd59b470a279493b4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Napstyle\AndroidStudioProjects\ProyecoU2_Medico-master\app\build\intermediates\pre-dexed\debug\classes_3caa0ec380cc6f3b2677b7e903eb402dbc2d622b.jar" />
+    </item>
+
+</items>

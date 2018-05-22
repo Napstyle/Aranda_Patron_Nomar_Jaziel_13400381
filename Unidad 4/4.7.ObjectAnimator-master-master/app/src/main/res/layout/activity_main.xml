@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <Button
+        android:id="@+id/btnRun3"
+        android:layout_width="0dp"
+        android:layout_height="31dp"
+        android:layout_alignEnd="@+id/faceIcon"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_weight="1"
+        android:background="#000000"
+        android:onClick="onButtonClick2"
+        android:text=" CycleInterpolator"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toTopOf="@+id/btnRu2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animationCanvas" />
+
+    <Button
+        android:id="@+id/btnRun"
+        android:layout_width="0dp"
+        android:layout_height="33dp"
+        android:layout_marginBottom="6dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_weight="1"
+        android:background="#000000"
+        android:onClick="onButtonClick"
+        android:text="BounceInterpolator"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRu2" />
+
+    <Button
+        android:id="@+id/btnRu2"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="4dp"
+        android:layout_weight="1"
+        android:background="#000000"
+        android:onClick="onButtonClick1"
+        android:text="AccelerateInterpolator"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toTopOf="@+id/btnRun"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRun3" />
+
+    <RelativeLayout
+        android:id="@+id/animationCanvas"
+        android:layout_width="455dp"
+        android:layout_height="0dp"
+        android:layout_above="@+id/buttonContainer"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnRun3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/faceIcon"
+            android:layout_width="377dp"
+            android:layout_height="76dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="83dp"
+            android:src="@drawable/ic_launcher_background" />
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
